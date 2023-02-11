@@ -2,7 +2,17 @@
   "name": "tidepool-light",
   "displayName": "Tidepool Light",
   "description": "a pastel green theme for VSCode",
-  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/iiandromedaa/tidepool-color-theme"
+  },
+  "icon": "img/tp-icon.png",
+  "keywords": [
+    "pastel",
+    "theme",
+    "green",
+    "frog"
+  ],
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.75.0"
   },
