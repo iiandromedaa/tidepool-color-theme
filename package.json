@@ -1,0 +1,21 @@
+{
+  "name": "tidepool-light",
+  "displayName": "Tidepool Light",
+  "description": "a pastel green theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tidepool Light",
+        "uiTheme": "vs",
+        "path": "./themes/Tidepool Light-color-theme.json"
+      }
+    ]
+  }
+}
